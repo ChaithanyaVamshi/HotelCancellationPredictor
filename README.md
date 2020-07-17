@@ -1,5 +1,5 @@
 # HotelCancellationPredictor
-- Have you ever wondered what if there was a way you could predict which guests whi were likely to cancel the reservation at Hotel? That would be great right? Check out this ML model which gives best prediction for the guests who  are likely to cancel the reservation.
+- Have you ever wondered what if there was a way you could predict which guests who are likely to cancel the reservation at Hotel? That would be great right? Check out this ML model which gives best prediction for the guests who are likely to cancel the reservation.
 
 # Description:
 - Dataset is collected from kaggle.com
