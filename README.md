@@ -4,7 +4,7 @@
 # Description:
 - Dataset is collected from https://www.kaggle.com/jessemostipak/hotel-booking-demand
 - Data Cleaning, Data Visualization, EDA and model is built to predict which guests at the Hotel are likely to cancel the reservation.
-- Please check out my article published on Medium to understand Exploratory Data Analysis (EDA) performed on the data set : https://medium.com/@chaithanyavamshi/exploratory-data-analysis-eda-for-predicting-hotel-booking-cancellations-using-machine-learning-3990be4af2ff#4dcf-4450f66806f0
+- Please check out my medium blog which got featured in Analytics Vidhya which helps in understanding Exploratory Data Analysis (EDA) performed on the data set : https://medium.com/analytics-vidhya/exploratory-data-analysis-eda-for-predicting-hotel-booking-cancellations-using-machine-learning-3990be4af2ff
 - Applied Feature Engineering and Feature Encoding techniques like One Hot encoding, Label Encoding, Custom Mapping etc
 - Applied various Classification Algorithms on the data set like Logistic Regression, Decision Trees, Random Forest and Boosting Algorithm like XGBOOST.
 - The model is successfully built and has achieved  highest accuracy of 89% with Random Forest Algorithm after applying Cross Validaton Techniques.
